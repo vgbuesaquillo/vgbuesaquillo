@@ -1,7 +1,7 @@
 - �  Soy Victor Buesaquillo
 - 👀 Estoy interesado en aprender sobre algoritmos de aprendizaje de máquina e inteligencia artificial
-- 🌱 Estoy aprendiendo sobre sistemas complejos
-- 💞️ Me gustaría colaborar con centros de investigación en ciencias de los materiales
+- 🌱 Estoy aprendiendo desarrollo web en el Bootcamp HENRY
+- 💞️ Me gustaría colaborar con centros de investigación
 - 📫 Me pueden encontrar en linkedin como: www.linkedin.com/in/victorbuesaquillo
 
 <!---
