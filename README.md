@@ -1,3 +1,4 @@
+![Soy desarrollador Full Stack](https://github.com/vgbuesaquillo/vgbuesaquillo/blob/main/gitb.png)
 - �  Soy Victor Buesaquillo
 - 🌱 Estoy aprendiendo desarrollo web en el Bootcamp HENRY
 - 📫 Me pueden encontrar en linkedin como: www.linkedin.com/in/victorbuesaquillo
