@@ -17,6 +17,8 @@
 - Cauteloso
 - Metódico
 - Paciente
+## Proyectos
+![Henry Dogs App](https://github.com/vgbuesaquillo/vgbuesaquillo/blob/main/henrydogs.png)
 <!---
 vgbuesaquillo/vgbuesaquillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
