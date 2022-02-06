@@ -10,6 +10,13 @@
 - Nodejs | Express | Sequelize
 - SQL | PostgreSQL
 - Git | GitHub
+## Competencias
+- Práctico
+- Enfocado
+- Confiable
+- Cauteloso
+- Metódico
+- Paciente
 <!---
 vgbuesaquillo/vgbuesaquillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
